@@ -21,7 +21,7 @@ https://helderbadim.github.io/StringsTheory/
 - **GitHub Pages**: For hosting the live project.
 
 ## 📂 Project Structure
-
+```plaintext
 StringsTheory/
 - index.html         # Main HTML file
 - styles/            # Folder containing CSS styles
@@ -29,6 +29,7 @@ StringsTheory/
 - assets/            # Folder for images, icons, and other resources
   - images/          # Images used in the project
 - README.md          # Project documentation (this file)
+```
 
 ## 🎯 Purpose
 
